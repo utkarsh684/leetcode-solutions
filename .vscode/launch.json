@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "roundCodeForces",
+            "request": "launch",
+            "mainClass": "roundCodeForces",
+            "projectName": "leetcode-solutions_3ef8913"
+        },
+        {
+            "type": "java",
+            "name": "newYearCodeforces",
+            "request": "launch",
+            "mainClass": "newYearCodeforces",
+            "projectName": "leetcode-solutions_3ef8913"
+        },
+        {
+            "type": "java",
             "name": "chewbaccaCodeforces",
             "request": "launch",
             "mainClass": "chewbaccaCodeforces",
