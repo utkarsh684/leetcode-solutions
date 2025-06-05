@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "chewbaccaCodeforces",
+            "request": "launch",
+            "mainClass": "chewbaccaCodeforces",
+            "projectName": "leetcode-solutions_3ef8913"
+        },
+        {
+            "type": "java",
             "name": "leetcode1539",
             "request": "launch",
             "mainClass": "leetcode1539",
