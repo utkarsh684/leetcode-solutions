@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WatermelonCodeforces",
+            "request": "launch",
+            "mainClass": "WatermelonCodeforces",
+            "projectName": "leetcode-solutions_3ef8913"
+        },
+        {
+            "type": "java",
+            "name": "foxAndSnakeCodeforces",
+            "request": "launch",
+            "mainClass": "foxAndSnakeCodeforces",
+            "projectName": "leetcode-solutions_3ef8913"
+        },
+        {
+            "type": "java",
             "name": "leetcode532",
             "request": "launch",
             "mainClass": "leetcode532",
