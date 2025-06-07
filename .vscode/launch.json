@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Anton",
+            "request": "launch",
+            "mainClass": "Anton",
+            "projectName": "leetcode-solutions_3ef8913"
+        },
+        {
+            "type": "java",
             "name": "WatermelonCodeforces",
             "request": "launch",
             "mainClass": "WatermelonCodeforces",
