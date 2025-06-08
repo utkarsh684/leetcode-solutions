@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FalseAlarm",
+            "request": "launch",
+            "mainClass": "FalseAlarm",
+            "projectName": "leetcode-solutions_3ef8913"
+        },
+        {
+            "type": "java",
             "name": "Anton",
             "request": "launch",
             "mainClass": "Anton",
