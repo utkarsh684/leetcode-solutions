@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SoftCodeforces",
+            "request": "launch",
+            "mainClass": "SoftCodeforces",
+            "projectName": "leetcode-solutions_3ef8913"
+        },
+        {
+            "type": "java",
+            "name": "ShrinkCodeforces",
+            "request": "launch",
+            "mainClass": "ShrinkCodeforces",
+            "projectName": "leetcode-solutions_3ef8913"
+        },
+        {
+            "type": "java",
             "name": "FalseAlarm",
             "request": "launch",
             "mainClass": "FalseAlarm",
