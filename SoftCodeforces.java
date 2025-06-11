@@ -14,7 +14,7 @@ public class SoftCodeforces {
         int limes=(c*d)/1;
         int salt=p/np;
         System.out.println();
-        System.out.println(Math.min(Math.min(drink,limes),salt)/3);
+        System.out.println(Math.min(Math.min(drink,limes),salt)/n);
 
     }
 }
