@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "leetcode-solutions_3ef8913"
+        },
+        {
+            "type": "java",
             "name": "Codechef",
             "request": "launch",
             "mainClass": "Codechef",
