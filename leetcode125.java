@@ -1,4 +1,4 @@
-class leercode125 {
+class leetcode125 {
     public boolean isPalindrome(String s) {
        int i=0;
        int j=s.length()-1;
