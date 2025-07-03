@@ -1,5 +1,5 @@
-public class sample{
-    public static void main(String args[]){
-        System.out.println("portland".indexOf("port"));
+class leetcode28 {
+    public int strStr(String haystack, String needle) {
+        return haystack.indexOf(needle);
     }
 }
